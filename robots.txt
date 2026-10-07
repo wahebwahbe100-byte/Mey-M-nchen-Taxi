@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meymuenchen.taxi/sitemap.xml
